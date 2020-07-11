@@ -9,6 +9,8 @@ Execução da nossa ideia.
 -------------
 Linguagem usada:
 HTML
+JavaScript 
+Css
 
 -------------
 
